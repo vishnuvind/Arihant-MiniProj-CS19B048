@@ -5,7 +5,7 @@ The repository contains  my submissions for the mini-project for the CVI sub-mod
 The following are the files present in this repository:  
 1.  Count_sheets.ipynb - Jupyter Notebook to apply image preocessing on a given image to easily count the number of sheets  
 2.  Count_Sheets_img.png - image after applying image processing (easy to count sheets)  
-3.  Create_Train_Test.ipynb - Jupyter Notebook code used to randomly split test and train sets  
+3.  Create_Train_Test.py - python code used to randomly split images into test and train sets  
 4.  Image_Classifier.ipynb - Jupyter Notebook with the Deep Learning Model that is used to classify images into 6 classes  
 
 Thanks for the wonderful questions  
